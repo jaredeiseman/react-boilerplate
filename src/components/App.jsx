@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-function App(props){
+function App(){
   return (
     <div>
       <h1>Stuff to render goes here!</h1>
